@@ -124,3 +124,7 @@ h2 {
 .active {
   color: var(--branding-color) !important;
 }
+.logo {
+  max-width: 80px;
+  max-height: 80px;
+}
