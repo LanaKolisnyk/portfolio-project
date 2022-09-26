@@ -27,7 +27,7 @@ p {
 .hero {
   background-color: #f9f7fe;
   text-align: center;
-  padding: 160px 20px;
+  padding: 70px 20px;
 }
 .hero p {
   font-size: 36px;
@@ -87,7 +87,7 @@ h2 {
   }
 }
 .content-container {
-  padding: 160px 20px;
+  padding: 70px 20px;
 }
 .content-container h1 {
   font-size: 64px;
@@ -116,4 +116,11 @@ h2 {
 }
 .content p {
   font-size: 14px;
+}
+.nav-link {
+  padding: 0 40px !important;
+  font-weight: bold !important;
+}
+.active {
+  color: var(--branding-color) !important;
 }
